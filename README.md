@@ -35,4 +35,9 @@ This module handles the ingestion, segmentation, and embedding of PDF documents 
 - Users can first download the PDF with Generative AI interview questions and answers and upload it in the UI, input their queries, and the model will return relevant answers based on the document's content.
 - After loading the model and processing the document, run the Gradio app to start interacting with the model via a web interface.
 
-  
+For more detailed instructions on building and training the LLM, refer to this full blog on [How to Build an LLM from Scratch](https://www.projectpro.io/article/how-to-build-an-llm-from-scratch/1064). Alternatively, you may also download the [How to Build an LLM from Scratch PDF](https://www.projectpro.io/free-learning-resources/how-to-build-an-llm-from-scratch-pdf) for a comprehensive guide.
+
+## Special Thanks
+
+Special thanks to [VK Maurya](https://github.com/vk-maurya/PDF-QLM) for his contributions to this project.
+
